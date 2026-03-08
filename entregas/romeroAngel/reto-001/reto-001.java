@@ -13,7 +13,6 @@ class RetoCarrefour {
         int queue = 0;
         int currentMinute = 0;
         boolean working;
-        boolean clientArrived = false; 
 
         int[] cashiers = { 0, 0, 0, 0 };
 
